@@ -1,0 +1,31 @@
+{
+  "asset_count": 1,
+  "file_count": 1,
+  "assets": [
+    {
+      "name": "AAMat_AarchGlassMax",
+      "id_type": "MATERIAL",
+      "files": [
+        "AarchGlass.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "AarchGlass_thumbnails/Material/aamat_aarchglassmax.webp",
+        "hash": "SHA256:bc0bdf561ab2dfb825f59676049ad4da1a022e475d9bf761ae84c204a3d973d0"
+      },
+      "meta": {
+        "catalog_id": "955895a8-40d5-4308-8007-b4b319423543"
+      }
+    }
+  ],
+  "files": [
+    {
+      "path": "AarchGlass.blend",
+      "size_in_bytes": 123479,
+      "hash": "SHA256:764ffff34eaed9e3ce83d41ae2718bb00f610e8b127002032316873e25a3fcda",
+      "blender_version": "5.2.44"
+    }
+  ]
+}

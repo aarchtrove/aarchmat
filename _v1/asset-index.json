@@ -1,0 +1,21 @@
+{
+  "schema_version": "1.0.0",
+  "asset_size_bytes": 123479,
+  "asset_count": 1,
+  "file_count": 1,
+  "pages": [
+    {
+      "url": "_v1/assets-00000.json",
+      "hash": "SHA256:4213b5abf247946df2a2a2d196236ac50fb46c39c5871f0254e6aa6cd47ea65e"
+    }
+  ],
+  "catalogs": [
+    {
+      "path": "AarchMat",
+      "uuids": [
+        "955895a8-40d5-4308-8007-b4b319423543"
+      ],
+      "simple_name": "AarchMat"
+    }
+  ]
+}
