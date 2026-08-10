@@ -23,8 +23,8 @@
   "files": [
     {
       "path": "AarchGlass.blend",
-      "size_in_bytes": 123479,
-      "hash": "SHA256:764ffff34eaed9e3ce83d41ae2718bb00f610e8b127002032316873e25a3fcda",
+      "size_in_bytes": 123500,
+      "hash": "SHA256:7dc3dde4c35f2bf17fac3a40a7a6f155183553f160d477d656cf9f28af84a565",
       "blender_version": "5.2.44"
     }
   ]
