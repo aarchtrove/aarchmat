@@ -1,12 +1,12 @@
 {
   "schema_version": "1.0.0",
-  "asset_size_bytes": 123500,
-  "asset_count": 1,
-  "file_count": 1,
+  "asset_size_bytes": 17354620,
+  "asset_count": 2,
+  "file_count": 2,
   "pages": [
     {
       "url": "_v1/assets-00000.json",
-      "hash": "SHA256:12ebb8dd900f08990c1c07006882e7ab4aab190582be68800377b3c4cb62fde9"
+      "hash": "SHA256:b8221642da4d360867a81ec17cb7b5e6ab520502b3f0b15719d8a00312127f08"
     }
   ],
   "catalogs": [
@@ -16,6 +16,13 @@
         "955895a8-40d5-4308-8007-b4b319423543"
       ],
       "simple_name": "AarchMat"
+    },
+    {
+      "path": "Metals",
+      "uuids": [
+        "be2c535b-5895-4a79-b732-551246626ca7"
+      ],
+      "simple_name": "Metals"
     }
   ]
 }
